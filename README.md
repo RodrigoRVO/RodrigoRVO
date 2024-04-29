@@ -1,33 +1,14 @@
+<h1 align="left">Olá, eu sou o Rodrigo!</h1>
+<h3 align="left" width="500px">Tudo bem? Trabalho no ramo turístico da Serra Gaúcha e atualmente estou em transição de carreira para a programação. <br>
+Sou desenvolvedor Full-Stack em formação, estou sempre praticando HTML, CSS e Javascript no curso Desenvolvedor Full-Stack da DevClub. Aqui irei disponibilizar meus códigos de projetos de portifólio para que vocês possam conferir o meu trabalho, meu objetivo é sempre aprimorar meu código para que eu possa trabalhar em uma empresa com excelência, então meu esforço será sempre voltado ao que eu posso aprender para melhorar meu trabalho. Achei interessante também compartilhar os desafios que fiz no curso da DevClub, pois tenho muito carinho por eles afinal foram meus primeiros passos nessa nova caminhada. Espero que gostem, até mais 😄</h3> <br>
 
+<h3 align="left">Conecte-se comigo:</h3> <br>
+<p align="left">
+<a href="https://linkedin.com/in/rvo-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rvo-dev" height="30" width="40" /></a>
+<a href="https://instagram.com/rvo_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rvo_dev" height="30" width="40" /></a>
+</p>
 
-Eu sou o Rodrigo, tudo bem? <br> 
+<h3 align="left">Linguagens e Ferramentas:</h3> <br>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p> <br>
 
-Trabalho no ramo turístico da Serra Gaúcha e atualmente estou em transição de carreira para a programação. <br>
-Sou desenvolvedor Front-End em início de carreira, estou sempre praticando HTML, CSS e Javascript no curso Desenvolvedor Full-Stack da <a href="https://rodolfomori.com.br/devclub">DevClub</a>, pretendo também me preparar para 
-desenvolvimento Back-End e finalmente ser um desenvolvedor Full-Stack :sunglasses: <br>
-
-Aqui irei disponibilizar meus códigos de projetos de portifólio para que vocês possam conferir o meu trabalho, meu objetivo é sempre aprimorar meu código para que eu 
-possa trabalhar em uma empresa com excelência, então meu esforço será sempre voltado ao que eu posso aprender para melhorar meu trabalho. <br>
-
-Achei interessante também compartilhar os desafios que fiz no curso da DevClub, pois tenho muito carinho por eles afinal foram meus primeiros passos nessa nova caminhada.
-
-Espero que gostem, até mais :smile:
-
-<br>
-<br>
-
-
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
--  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo">
-
-<br>
-<br>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoRVO&show_icons=true&theme=radical)
-
-<!---
-RodrigoRVO/RodrigoRVO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigorvo&show_icons=true&locale=en" alt="rodrigorvo" /></p>
